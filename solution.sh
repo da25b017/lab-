@@ -24,7 +24,7 @@ chmod a+x script.sh
 # 8. Use a command to search for the word "TODO" in every ".py" file in the current directory
 grep "TODO" *.py
 
-# 9. Show the last 20 commands entered in the terminal
+# 9. Show the last 20 commands entered in the terminal 
 history | tail -n 20
 
 # 10. Show processes sorted by memory usage
